@@ -1,4 +1,0 @@
-git+https://github.com/ActivityWatch/aw-core.git@master#egg=aw-core
-
-requests
-persist-queue==0.3.5
